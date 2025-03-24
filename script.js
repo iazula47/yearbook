@@ -39,7 +39,7 @@ const photos = [
     'img/37.png',
     'img/38.png',
     'img/39.png',
-    'img/O3rzOt_qrcode.png'
+    'img/40.png'
   ];
   
   let currentIndex = 0;
