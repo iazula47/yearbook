@@ -91,7 +91,7 @@ const photos = [
       photoElement.src = photos[index];
       // Set size each time (not necessary if already set)
       photoElement.style.width = '600px';
-      photoElement.style.height = '690px';
+      photoElement.style.height = '700px';
     }, 300);
   
     setTimeout(() => {
